@@ -1,3 +1,9 @@
+# Testing if potential user testers can access basic browser protypes hosted on Github Pages
+
+##  go to this link 👉 [https://shkeating.github.io/browser-prototype-test/](https://shkeating.github.io/browser-prototype-test/)
+
+
+
 # USWDS Screener Prototyping Tool
 
 At [Bixal](https://www.bixal.com/), we believe fast cycles of prototyping and testing accelerate learning, reduce risk, and improve outcomes. We started a dedicated internal team to explore new processes and tools for using web-based prototyping to help our delivery teams lower the barriers to making ideas more tangible more quickly. With our focus on speed, tangibility, reusability, and openness, we demonstrate what's possible with rapid prototyping, lean research, content libraries, and design frameworks. 
