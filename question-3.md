@@ -2,14 +2,14 @@
 ### CONTENT ###
 
 # The question you want to ask
-text: Has this incident occurred within the last 6 months?
+text: Last question, this is the end of the prototype. Did you enjoy it?
 
 # The answer options and page name of destination associated with each answer
 # Add as many as you need.
 answers:
-  - text: "Yes, this incident has occurred within the last 6 months"
+  - text: "Yes, great prototype!! Browser Prototyping Rules"
     path: success
-  - text: "No, this incident occurred over 6 months ago"
+  - text: "eh, I could take it or leave it"
     path: q3-exit
 
 # Whether this question includes related resources (yes or no)
