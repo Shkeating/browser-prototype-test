@@ -2,16 +2,16 @@
 ### CONTENT ###
 
 # The question you want to ask
-text: What is the main concern of your complaint?
+text: This is a second question. Can you make it to the last question?
 
 # The answer options and page name of destination associated with each answer
 # Add as many as you need.
 answers:
-  - text: "My privacy rights were violated"
+  - text: "Yes!"
     path: question-3
-  - text: "I have not been given access to my medical records after a request over 30 days ago"
+  - text: "Another example option"
     path: success
-  - text: "It’s about something else"
+  - text: "Try the exit functionality"
     path: q2-exit
 
 # Whether this question includes related resources (yes or no)
